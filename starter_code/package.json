@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "Manu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
 }
